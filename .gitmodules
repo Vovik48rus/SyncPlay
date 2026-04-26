@@ -1,3 +1,6 @@
 [submodule "desktop-app"]
 	path = desktop-app
 	url = https://github.com/Vovik48rus/SyncPlay-desktop-app
+[submodule "web"]
+	path = web
+	url = https://github.com/Vovik48rus/SyncPlay-web
